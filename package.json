@@ -4,7 +4,7 @@
   "description": "Udemy Course Progress throughout time",
   "main": "list.html",
   "scripts": {
-    "start": "node your-script.js"
+    "start": "node list.js"
   },
   "repository": {
     "type": "git",
