@@ -4,6 +4,8 @@
   "description": "Udemy Course Progress throughout time",
   "main": "list.html",
   "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
     "node": "^9.2.0"
   },
   "devDependencies": {},
