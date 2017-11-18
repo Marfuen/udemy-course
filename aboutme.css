@@ -1,0 +1,21 @@
+Selector {
+	properties: Value;
+}
+
+h1 {
+	color: #FF0000;
+	border: 1px solid purple
+}
+
+li {
+	color: green;
+}
+
+h4 {
+	color: purple;
+}
+
+body {
+	background: pink;
+	/*	background: url(https://static.boredpanda.com/blog/wp-content/uploads/2016/01/architecture-photography-symmetrical-monsters-instagram-113__605.jpg);*/
+}

@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+	<title>Quiz 3</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<h1>Register</h1>
+
+	<form>
+		<label for='FirstName'>First Name:</label>
+		<input id='FirstName' name='Name' type="text" required>
+
+		<label for='LastName'>Last Name:</label>
+		<input id='LastName' name='Name' type="text" required>
+
+		<div>
+			<label for='Male'>Male</label>
+			<input id='Male' name='Gender' type="Radio">
+
+			<label for='Female'>Female</label>
+			<input id='Female' name='Gender' type="radio">
+
+			<label for='Other'>Other</label>
+			<input id='Other' name='Gender' type="radio">
+
+		</div>
+		<div>
+			<label for='email'>Email:</label>
+			<input id='email' type="email" required>
+
+			<label for='password'>Password:</label>
+			<input id='password' type="password" required minlength='5' maxlength="10">
+
+		</div>
+		<div>
+			<label for='birthday'>Birthday:</label>
+			<select name='Month'>
+				<option>Month</option>
+				<option>October</option>
+				<option>November</option>
+				<option>December</option>
+			</select>
+			<select name='Day'>
+				<option>Day</option>
+				<option>26</option>
+				<option>27</option>
+				<option>28</option>
+			</select>
+			<select name="Year">
+				<option>Year</option>
+				<option>1988</option>
+				<option>1999</option>
+				<option>2000</option>
+			</select>
+		</div>
+		I agree to the terms and conditions
+		<input type="checkbox" required>
+		<div>
+			<input type="submit">
+		</div>
+	</form>
+</body>
+</html>
