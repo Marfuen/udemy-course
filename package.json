@@ -4,7 +4,7 @@
   "description": "Udemy Course Progress throughout time",
   "main": "list.html",
   "scripts": {
-    "start": "node list.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
