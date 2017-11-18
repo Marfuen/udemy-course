@@ -2,7 +2,7 @@
   "name": "udemy-course-2",
   "version": "1.0.0",
   "description": "Udemy Course Progress throughout time",
-  "main": "annoy.js",
+  "main": "list.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
