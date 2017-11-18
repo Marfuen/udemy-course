@@ -4,6 +4,7 @@
   "description": "Udemy Course Progress throughout time",
   "main": "list.html",
   "scripts": {
+    "start": "node lib/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,4 +17,4 @@
     "url": "https://github.com/Marfuen/udemy-course/issues"
   },
   "homepage": "https://github.com/Marfuen/udemy-course#readme"
-}
+},
