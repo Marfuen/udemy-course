@@ -1,0 +1,19 @@
+{
+  "name": "udemy-course-2",
+  "version": "1.0.0",
+  "description": "Udemy Course Progress throughout time",
+  "main": "annoy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marfuen/udemy-course.git"
+  },
+  "author": "Marfuen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marfuen/udemy-course/issues"
+  },
+  "homepage": "https://github.com/Marfuen/udemy-course#readme"
+}
