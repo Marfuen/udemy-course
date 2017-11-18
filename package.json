@@ -1,0 +1,21 @@
+{
+  "name": "udemy-course",
+  "version": "1.0.0",
+  "description": "Udemy Course Progress throughout time",
+  "main": "list.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marfuen/udemy-course.git"
+  },
+  "author": "Mariano Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marfuen/udemy-course/issues"
+  },
+  "homepage": "https://github.com/Marfuen/udemy-course#readme"
+}
