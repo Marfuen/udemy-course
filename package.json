@@ -5,7 +5,6 @@
   "main": "list.html",
   "scripts": {
     "start": "node your-script.js"
-}
   },
   "repository": {
     "type": "git",
